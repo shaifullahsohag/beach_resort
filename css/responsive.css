@@ -1,0 +1,2377 @@
+/* --------------------------------------
+	Extra Small devices (min-width: 240)
+   -------------------------------------- */
+
+@media (min-width: 240px) {
+	
+.container {
+    width: 220px;
+}
+
+.navbar-toggle {
+  background-color: #60c9bc;
+}
+
+span.icon-bar{
+  background-color: #fff;
+}
+
+.navbar-nav > li{
+  background-image: none;
+}
+
+.navbar-nav > li a {
+  text-align: left;
+  padding: 15px 35px;
+}
+
+.background {
+  height: 409px;
+}
+
+.welcome{
+  padding: 0 15px;
+}
+
+.welcome h2 {
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+
+.welcome p {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+#latest_blog_and_testimonial > .container{
+  padding: 0 15px;
+}
+
+.latest_blog {
+  padding: 20px 25px;
+}
+
+.latest_blog h2 {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.single_lates_blog h3 {
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.single_lates_blog p.date_latest{
+  font-size: 12px;
+  line-height: 24px;
+}
+
+.single_lates_blog p {
+  font-size: 12px;
+  line-height: 20px;
+  margin-top: 4px;
+}
+
+.testimonial {
+  padding: 25px 25px 21px;
+}
+
+.testimonial h2 {
+  font-size: 18px;
+  line-height: 30px;
+  margin-bottom: 0;
+}
+
+.testimonial p {
+  font-size: 12px;
+  line-height: 20px;
+  margin-top: 5px;
+}
+
+.testimonial p.name{
+  position: static;
+}
+
+.single_aside{
+  margin-top: 35px;
+}
+
+#single_first_aside img, #single_second_aside img, #single_third_aside img {
+  display: inline;
+  height: 230px;
+  width: 100%;
+}
+
+.social_media_link {
+  padding: 10px 52px;
+}
+
+.copyright_info h6 {
+  font-size: 8px;
+  line-height: 22px;
+}
+
+/* ===================================================
+   About Us
+   =================================================== */
+   
+.about_top_wrapper h1{
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.about_top_wrapper h2 {
+  font-size: 13px;
+  line-height: 23px;
+}
+
+.about_top_wrapper p {
+  font-size: 13px;
+  line-height: 24px;
+}
+
+.about_bottom_wrapper_left h2 {
+  font-size: 14px;
+  line-height: 23px;
+}
+
+.about_bottom_wrapper_right{
+  border-left: none;
+  padding-left: 0;
+}
+
+.about_bottom_wrapper_left h2 {
+  font-size: 14px;
+  line-height: 23px;
+}
+
+/* ===================================================
+   Rooms
+   =================================================== */
+
+.rooms_wrapper {
+  padding: 0 25px;
+}
+
+.rooms_wrapper h1 {
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 25px;
+}
+
+.single_room_wrapper_left {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.single_room_wrapper_right{
+  padding: 0;
+}
+
+.single_room_wrapper_right h2 {
+  font-size: 11px;
+  line-height: 23px;
+  margin-bottom: 5px;
+  margin-top: 25px;
+  text-align: left;
+}
+
+.single_room_wrapper_right p {
+  font-size: 12px;
+  line-height: 20px;
+  margin-bottom: 20px;
+}
+
+.single_room_wrapper_right p.rate a{
+  width: 100%;
+}
+
+/* ===================================================
+   Dive Site
+   =================================================== */
+
+.single_dive_wrapper_right {
+  padding-right: 15px;
+  padding-left: 0;
+}
+
+.dive_wrapper {
+  padding: 0 25px;
+}
+
+/* ===================================================
+   Food
+   =================================================== */
+.food_wrapper {
+  padding: 0 25px;
+}
+
+.all_food_wrapper_info{
+  height: auto;
+}
+
+.all_food_wrapper_info h3 {
+  margin: 10px 0;
+}
+
+.all_food_wrapper_info p {
+  font-size: 14px;
+  line-height: 24px;
+  margin-top: 0;
+}
+
+.all_food_wrapper h2 {
+  font-size: 17px;
+  line-height: 22px;
+  text-align: left;
+}
+
+.single_food_wrapper img {
+  display: block;
+  height: 190px;
+  margin: 0 auto;
+  width: 355px;
+}
+
+/* ===================================================
+   Blog / News
+   =================================================== */
+
+.news_wrapper {
+  padding: 0 25px 50px;
+}
+
+.unique_blog_post img {
+  height: 190px;
+  width: 100%;
+}
+
+.unique_blog_post h2 {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.unique_blog_post p{
+  font-size: 14px;
+}
+
+.single_blog_post{
+  border-right: none;
+}
+
+.single_sidebar ul li a {
+  padding: 8px 0;
+}
+
+.single_sidebar h2 {
+  font-size: 17px;
+  line-height: 27px;
+}
+
+
+/* ===================================================
+   Single Blog page
+   =================================================== */
+  .comments_nav_section p a{
+    font-size: 11px;
+  }
+
+
+/* ===================================================
+   Contact Us
+   =================================================== */
+
+.contact_us_wrapper_left h2 {
+  font-size: 15px;
+  line-height: 27px;
+}
+  
+.contact_us_wrapper {
+  padding: 0 25px 50px;
+}
+
+.contact_us_wrapper_left{
+  margin-bottom: 30px;
+}  
+
+form input[type="text"] {
+  margin-left: 0 !important;
+  margin-top: 10px;
+  width: 130px !important;
+}
+
+#user_name {
+  margin-left: 19px;
+}
+
+#email_id {
+  margin-left: 19px;
+}
+
+textarea {
+  margin-left: 0;
+  margin-top: 25px;
+  width: 130px;
+}
+
+form input[type="submit"]{
+  margin-left: 0;
+}
+
+
+}
+
+
+/* --------------------------------------
+	Extra Small devices (min-width: 320)
+   -------------------------------------- */
+
+@media (min-width: 320px) {
+	
+.container {
+    width: 300px;
+}
+
+.navbar-toggle {
+  background-color: #60c9bc;
+}
+
+span.icon-bar{
+  background-color: #fff;
+}
+
+.navbar-nav > li{
+  background-image: none;
+}
+
+.navbar-nav > li a {
+  text-align: left;
+  padding: 15px 35px;
+}
+
+.background {
+  height: 445px;
+}
+
+.welcome{
+  padding: 0 15px;
+}
+
+.welcome h2 {
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 14px;
+}
+
+.welcome p {
+  font-size: 14px;
+  line-height: 28px;
+}
+
+#latest_blog_and_testimonial > .container{
+  padding: 0 15px;
+}
+
+.latest_blog {
+  padding: 20px 25px;
+}
+
+.latest_blog h2 {
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.single_lates_blog h3 {
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.single_lates_blog p.date_latest{
+  font-size: 12px;
+  line-height: 24px;
+}
+
+.single_lates_blog p {
+  font-size: 12px;
+  line-height: 20px;
+  margin-top: 4px;
+}
+
+.testimonial {
+  padding: 25px 25px 21px;
+}
+
+.testimonial h2 {
+  font-size: 22px;
+  line-height: 30px;
+  margin-bottom: 0;
+}
+
+.testimonial p {
+  font-size: 12px;
+  line-height: 20px;
+  margin-top: 12px;
+}
+
+.testimonial p.name{
+  position: static;
+}
+
+.single_aside{
+  margin-top: 35px;
+}
+
+#single_first_aside img, #single_second_aside img, #single_third_aside img {
+  display: inline;
+  height: 230px;
+  width: 100%;
+}
+
+.social_media_link {
+  padding: 10px 92px;
+}
+
+.copyright_info h6 {
+  font-size: 10px;
+  line-height: 22px;
+}
+
+/* ===================================================
+   About Us
+   =================================================== */
+   
+.about_top_wrapper h1{
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.about_top_wrapper h2 {
+  font-size: 16px;
+  line-height: 23px;
+}
+
+.about_top_wrapper p{
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.about_bottom_wrapper_left h2{
+  font-size: 16px;
+  line-height: 23px;
+}
+
+.about_bottom_wrapper_right{
+  border-left: none;
+  padding-left: 0;
+}
+
+.about_bottom_wrapper_right h2{
+  font-size: 16px;
+  line-height: 23px;
+}
+
+/* ===================================================
+   Rooms
+   =================================================== */
+
+.rooms_wrapper {
+  padding: 0 25px;
+}
+
+.rooms_wrapper h1 {
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 25px;
+}
+
+.single_room_wrapper_left {
+  padding-left: 0;
+  padding-right: 15px;
+}
+
+.single_room_wrapper_right{
+  padding: 0;
+}
+
+.single_room_wrapper_right h2 {
+  font-size: 16px;
+  line-height: 30px;
+  margin-bottom: 5px;
+  margin-top: 25px;
+  text-align: left;
+}
+
+.single_room_wrapper_right p {
+  font-size: 14px;
+  line-height: 27px;
+  margin-bottom: 20px;
+}
+
+.single_room_wrapper_right p.rate a{
+  width: 100%;
+}
+
+/* ===================================================
+   Dive Site
+   =================================================== */
+
+.single_dive_wrapper_right {
+  padding-right: 15px;
+  padding-left: 0;
+}
+
+.dive_wrapper {
+  padding: 0 25px;
+}
+
+
+/* ===================================================
+   Food
+   =================================================== */
+   
+.food_wrapper {
+  padding: 0 25px;
+} 
+
+.all_food_wrapper_info{
+  height: auto;
+}
+
+.all_food_wrapper_info h3 {
+  margin: 10px 0;
+}
+
+.all_food_wrapper_info p {
+  font-size: 14px;
+  line-height: 22px;
+  margin-top: 0;
+}
+
+.all_food_wrapper h2 {
+  font-size: 20px;
+  line-height: 30px;
+  text-align: left;
+}
+
+.single_food_wrapper img {
+  width: 355px;
+  height: 233px;
+  margin: 0 auto;
+  display: block;
+}
+
+/* ===================================================
+   Blog / News
+   =================================================== */
+  
+.news_wrapper {
+  padding: 0 25px 50px;
+}
+
+.unique_blog_post img {
+  height: 331px;
+  width: 100%;
+}
+
+.unique_blog_post h2 {
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.unique_blog_post p{
+  font-size: 16px;
+}
+
+.single_blog_post{
+  border-right: none;
+}
+
+.single_sidebar ul li a {
+  padding: 8px 0;
+}
+
+.single_sidebar h2{
+  font-size: 22px;
+  line-height: 22px;
+}
+
+/* ===================================================
+   Single Blog page
+   =================================================== */
+  .comments_nav_section p a{
+    font-size: 11px;
+  }
+
+/* ===================================================
+   Contact Us
+   =================================================== */
+
+.contact_us_wrapper_left h2 {
+  font-size: 23px;
+  line-height: 29px;
+}
+  
+.contact_us_wrapper {
+  padding: 0 25px 50px;
+}
+
+.contact_us_wrapper_left{
+  margin-bottom: 30px;
+}  
+
+form input[type="text"] {
+  margin-left: 0 !important;
+  margin-top: 10px;
+  width: 210px !important;
+}
+
+#user_name {
+  margin-left: 19px;
+}
+
+#email_id {
+  margin-left: 19px;
+}
+
+textarea {
+  margin-left: 0;
+  margin-top: 25px;
+  width: 210px;
+}
+
+form input[type="submit"]{
+  margin-left: 0;
+}
+
+}
+
+
+/* --------------------------------------
+	Extra Small devices (min-width: 480)
+   -------------------------------------- */
+
+@media (min-width: 480px) {
+	
+.container {
+    width: 450px;
+}
+
+.navbar-toggle {
+  background-color: #60c9bc;
+}
+
+span.icon-bar{
+  background-color: #fff;
+}
+
+.navbar-nav > li{
+  background-image: none;
+}
+
+.navbar-nav > li a {
+  text-align: left;
+  padding: 15px 35px;
+}
+
+.background {
+  height: 526px;
+}
+
+.welcome{
+  padding: 0 15px;
+}
+
+.welcome h2{
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+
+.welcome p{
+  font-size: 16px;
+  line-height: 24px;
+}
+
+#latest_blog_and_testimonial > .container{
+  padding: 0 15px;
+}
+
+.latest_blog {
+  padding: 20px 25px;
+}
+
+.latest_blog h2{
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.single_lates_blog h3{
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.single_lates_blog p.date_latest{
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.single_lates_blog p{
+  margin-top: 10px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.testimonial{
+  padding: 30px 25px 21px;
+}
+
+.testimonial h2{
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 10px;
+}
+
+.testimonial p{
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 25px;
+}
+
+.testimonial p.name{
+  position: static;
+}
+
+.single_aside{
+  margin-top: 35px;
+}
+
+#single_first_aside img, #single_second_aside img, #single_third_aside img {
+  display: inline;
+  height: 230px;
+  width: 100%;
+}
+
+.social_media_link {
+  padding: 10px 167px;
+}
+
+.copyright_info h6{
+  font-size: 14px;
+  line-height: 22px;
+}
+
+/* ===================================================
+   About Us
+   =================================================== */
+   
+.about_top_wrapper h1{
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.about_top_wrapper h2{
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.about_top_wrapper p{
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.about_bottom_wrapper_left h2{
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.about_bottom_wrapper_right{
+  border-left: none;
+  padding-left: 0;
+}
+
+.about_bottom_wrapper_right h2{
+  font-size: 20px;
+  line-height: 30px;
+}
+
+/* ===================================================
+   Rooms
+   =================================================== */
+
+.rooms_wrapper{
+  padding: 0 50px;
+}
+
+.rooms_wrapper h1 {
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 25px;
+}
+
+.single_room_wrapper_left {
+  padding-left: 0;
+  padding-right: 15px;
+}
+
+.single_room_wrapper_right{
+  padding: 0 15px;
+}
+
+.single_room_wrapper_right h2 {
+  font-size: 22px;
+  line-height: 30px;
+  margin-bottom: 10px;
+  margin-top: 25px;
+  text-align: center;
+}
+
+.single_room_wrapper_right p {
+  font-size: 14px;
+  line-height: 27px;
+  margin-bottom: 20px;
+}
+
+.single_room_wrapper_right p.rate a{
+  width: 100%;
+}
+
+/* ===================================================
+   Dive Site
+   =================================================== */
+
+.single_dive_wrapper_right {
+  padding-right: 15px;
+  padding-left: 0;
+}
+
+.dive_wrapper{
+  padding: 0 50px;
+}
+
+
+/* ===================================================
+   Food
+   =================================================== */
+   
+.food_wrapper {
+  padding: 0 50px;
+} 
+
+.all_food_wrapper_info{
+  height: auto;
+}
+
+.all_food_wrapper_info h3 {
+  margin: 10px 0;
+}
+
+.all_food_wrapper_info p {
+  font-size: 14px;
+  line-height: 22px;
+  margin-top: 0;
+}
+
+.all_food_wrapper h2{
+  text-align: left;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.single_food_wrapper img {
+  width: 355px;
+  height: 233px;
+  margin: 0 auto;
+  display: block;
+}
+
+/* ===================================================
+   Blog / News
+   =================================================== */
+
+.unique_blog_post img{
+  width: 763px;
+  height: 396px;
+}
+     
+.news_wrapper{
+  padding: 0 50px 50px;
+}
+
+.unique_blog_post h2 {
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.unique_blog_post p{
+  font-size: 16px;
+}
+
+.single_blog_post{
+  border-right: none;
+}
+
+.single_sidebar ul li a {
+  padding: 8px 0;
+}
+
+.single_sidebar h2{
+  font-size: 22px;
+  line-height: 22px;
+}
+
+/* ===================================================
+   Single Blog page
+   =================================================== */
+  .comments_nav_section p a{
+    font-size: 15px;
+  }
+
+/* ===================================================
+   Contact Us
+   =================================================== */
+
+.contact_us_wrapper_left h2{
+  font-size: 25px;
+  line-height: 30px;
+}
+  
+.contact_us_wrapper {
+  padding: 0 50px 50px;
+}
+
+.contact_us_wrapper_left{
+  margin-bottom: 30px;
+}  
+
+form input[type="text"] {
+  margin-left: 0 !important;
+  margin-top: 10px;
+  width: 300px !important;
+}
+
+#user_name {
+  margin-left: 19px;
+}
+
+#email_id {
+  margin-left: 19px;
+}
+
+textarea {
+  margin-left: 0;
+  margin-top: 25px;
+  width: 300px;
+}
+
+form input[type="submit"]{
+  margin-left: 0;
+}
+
+}
+
+
+/* --------------------------------------
+	Extra Small devices (min-width: 640)
+   -------------------------------------- */
+   
+@media (min-width: 640px) {
+	
+.container {
+    width: 600px;
+}
+
+.navbar-toggle {
+  background-color: #60c9bc;
+}
+
+span.icon-bar{
+  background-color: #fff;
+}
+
+.navbar-nav > li{
+  background-image: none;
+}
+
+.navbar-nav > li a {
+  text-align: left;
+  padding: 15px 35px;
+}
+
+.background {
+  height: 595px;
+}
+
+.welcome{
+  padding: 0 15px;
+}
+
+.welcome h2{
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+
+.welcome p{
+  font-size: 16px;
+  line-height: 24px;
+}
+
+#latest_blog_and_testimonial > .container{
+  padding: 0 15px;
+}
+
+.latest_blog {
+  padding: 20px 25px;
+}
+
+.latest_blog h2{
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.single_lates_blog h3{
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.single_lates_blog p.date_latest{
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.single_lates_blog p{
+  margin-top: 10px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.testimonial{
+  padding: 30px 25px 21px;
+}
+
+.testimonial h2{
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 10px;
+}
+
+.testimonial p{
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 25px;
+}
+
+.testimonial p.name{
+  position: static;
+}
+
+.single_aside{
+  margin-top: 35px;
+}
+
+#single_first_aside img, #single_second_aside img, #single_third_aside img {
+  display: inline;
+  height: 230px;
+  width: 100%;
+}
+
+#single_first_aside span {
+  font-size: 25px;
+  line-height: 35px;
+  margin-right: 30px;
+  margin-top: -127px;
+}
+
+#single_second_aside span {
+  font-size: 25px;
+  line-height: 35px;
+  margin-right: 49px;
+  margin-top: -127px;
+}
+
+#single_third_aside span {
+  font-size: 25px;
+  line-height: 35px;
+  margin-right: 37px;
+  margin-top: -139px;
+}
+
+.social_media_link {
+  padding: 10px 242px;
+}
+
+.copyright_info h6{
+  font-size: 14px;
+  line-height: 22px;
+}
+
+/* ===================================================
+   About Us
+   =================================================== */
+   
+.about_top_wrapper h1{
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.about_top_wrapper h2{
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.about_top_wrapper p{
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.about_bottom_wrapper_left h2{
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.about_bottom_wrapper_right{
+  border-left: none;
+  padding-left: 0;
+}
+
+.about_bottom_wrapper_right h2{
+  font-size: 20px;
+  line-height: 30px;
+}
+
+/* ===================================================
+   Rooms
+   =================================================== */
+
+.rooms_wrapper{
+  padding: 0 50px;
+}
+
+.rooms_wrapper h1 {
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 25px;
+}
+
+.single_room_wrapper_left {
+  padding-left: 0;
+  padding-right: 15px;
+}
+
+.single_room_wrapper_right{
+  padding: 0 15px;
+}
+
+.single_room_wrapper_right h2 {
+  font-size: 22px;
+  line-height: 30px;
+  margin-bottom: 10px;
+  margin-top: 25px;
+  text-align: center;
+}
+
+.single_room_wrapper_right p {
+  font-size: 14px;
+  line-height: 27px;
+  margin-bottom: 20px;
+}
+
+.single_room_wrapper_right p.rate a{
+  width: 100%;
+}
+
+/* ===================================================
+   Dive Site
+   =================================================== */
+
+.single_dive_wrapper_right {
+  padding-right: 15px;
+  padding-left: 0;
+}
+
+.dive_wrapper{
+  padding: 0 50px;
+}
+
+/* ===================================================
+   Food
+   =================================================== */
+   
+.food_wrapper {
+  padding: 0 50px;
+} 
+
+.all_food_wrapper_info{
+  height: auto;
+}
+
+.all_food_wrapper_info h3 {
+  margin: 10px 0;
+}
+
+.all_food_wrapper_info p {
+  font-size: 14px;
+  line-height: 22px;
+  margin-top: 0;
+}
+
+.all_food_wrapper h2{
+  text-align: left;
+  font-size: 25px;
+  line-height: 30px; 
+}
+
+.single_food_wrapper img {
+  width: 355px;
+  height: 233px;
+  margin: 0;
+  display: inline;
+}
+
+/* ===================================================
+   Blog / News
+   =================================================== */
+
+.unique_blog_post img{
+  width: 763px;
+  height: 396px;
+}
+     
+.news_wrapper{
+  padding: 0 50px 50px;
+}
+
+.unique_blog_post h2 {
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.unique_blog_post p{
+  font-size: 16px;
+}
+
+.single_blog_post{
+  border-right: none;
+}
+
+.single_sidebar ul li a {
+  padding: 8px 0;
+}
+
+.single_sidebar h2{
+  font-size: 22px;
+  line-height: 22px;
+}
+
+
+/* ===================================================
+   Single Blog page
+   =================================================== */
+  .comments_nav_section p a{
+    font-size: 15px;
+  }
+
+/* ===================================================
+   Contact Us
+   =================================================== */
+
+.contact_us_wrapper_left h2{
+  font-size: 25px;
+  line-height: 30px;
+}
+  
+.contact_us_wrapper {
+  padding: 0 50px 50px;
+}
+
+.contact_us_wrapper_left{
+  margin-bottom: 30px;
+}  
+
+form input[type="text"] {
+  margin-left: 0 !important;
+  width: 369px !important;
+  margin-top: 10px;
+}
+
+#user_name {
+  margin-left: 19px;
+}
+
+#email_id {
+  margin-left: 19px;
+}
+
+textarea {
+  margin-left: 0;
+  margin-top: 25px;
+  width: 390px;
+}
+
+form input[type="submit"]{
+  margin-left: 1px;
+}
+
+}
+
+  
+/* --------------------------------------
+  Small devices (tablets, 768px and up)
+   -------------------------------------- */
+   
+@media (min-width: 768px) {
+
+.container {
+    width: 750px;
+}
+
+.navbar-nav > li a {
+  font-size: 14px;
+  line-height: 22px;
+  padding: 15px 20px;
+  text-align: center;
+}
+
+.caption h2 {
+  font-size: 25px;
+  line-height: 35px;
+  margin-right: 30px;
+  margin-top: 106px;
+}
+
+.background {
+  height: 686px;
+}
+
+.welcome h2{
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+
+.welcome{
+  padding: 0 15px;
+}
+
+.welcome p{
+  font-size: 16px;
+  line-height: 24px;
+}
+
+#latest_blog_and_testimonial > .container{
+  padding: 0 15px;
+}
+
+.latest_blog {
+  padding: 20px 25px;
+}
+
+.latest_blog h2{
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.single_lates_blog h3{
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.single_lates_blog p.date_latest{
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.single_lates_blog p{
+  margin-top: 10px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.testimonial{
+  padding: 30px 25px 21px;
+}
+
+.testimonial p{
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 25px;
+}
+
+.testimonial h2{
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 10px;
+}
+
+.testimonial p.name{
+  position: static;
+}
+
+.single_aside {
+  height: 230px;
+  margin-top: 0;
+}
+
+#single_first_aside img, #single_second_aside img, #single_third_aside img {
+  display: inline;
+  height: 230px;
+  width: 100%;
+}
+
+#single_first_aside span {
+  font-size: 25px;
+  line-height: 35px;
+  margin-right: 30px;
+  margin-top: 78px;
+}
+
+#single_second_aside span {
+  font-size: 25px;
+  line-height: 35px;
+  margin-right: 49px;
+  margin-top: 73px;
+}
+
+#single_third_aside span {
+  font-size: 25px;
+  line-height: 35px;
+  margin-right: 37px;
+  margin-top: 75px;
+}
+
+nav#footer_navigation ul li a {
+  font-size: 10px;
+  line-height: 20px;
+  padding: 15px 10px;
+}
+
+.social_media_link {
+  padding: 15px 0 15px 120px;
+}
+
+.copyright_info h6{
+  font-size: 14px;
+  line-height: 22px;
+}
+
+/* ===================================================
+   About Us
+   =================================================== */
+   
+.about_top_wrapper h1{
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.about_top_wrapper h2{
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.about_bottom_wrapper_right{
+  border-left: none;
+  padding-left: 0;
+}
+
+.about_top_wrapper p{
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.about_bottom_wrapper_left h2{
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.about_bottom_wrapper_right h2{
+  font-size: 20px;
+  line-height: 30px;
+}
+
+/* ===================================================
+   Rooms
+   =================================================== */
+
+.rooms_wrapper{
+  padding: 0 50px;
+}
+
+.rooms_wrapper h1 {
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+
+.single_room_wrapper_left {
+  padding-left: 0;
+  padding-right: 15px;
+}
+
+.single_room_wrapper_right{
+  padding: 0 15px;
+}
+
+.single_room_wrapper_right h2 {
+  font-size: 22px;
+  line-height: 30px;
+  margin-bottom: 10px;
+  text-align: left;
+  margin-top: 0;
+}
+
+.single_room_wrapper_right p {
+  font-size: 14px;
+  line-height: 27px;
+  margin-bottom: 20px;
+}
+
+.single_room_wrapper_right p.rate a{
+  width: 100%;
+}
+
+/* ===================================================
+   Dive Site
+   =================================================== */
+
+.single_dive_wrapper_right {
+  padding-right: 0;
+  padding-left: 15px;
+}
+
+.dive_wrapper{
+  padding: 0 50px;
+}
+
+/* ===================================================
+   Food
+   =================================================== */
+   
+.food_wrapper {
+  padding: 0 50px;
+} 
+
+.all_food_wrapper_info{
+  height: auto;
+}
+
+.all_food_wrapper_info h3 {
+  margin: 10px 0;
+}
+
+.all_food_wrapper_info p {
+  font-size: 14px;
+  line-height: 24px;
+  margin-top: 0;
+}
+
+.all_food_wrapper h2{
+  text-align: left;
+  font-size: 25px;
+  line-height: 30px;  
+}
+
+.single_food_wrapper img {
+  width: 355px;
+  height: 233px;
+  margin: 0;
+  display: inline;
+}
+
+/* ===================================================
+   Blog / News
+   =================================================== */
+
+.unique_blog_post img{
+  width: 763px;
+  height: 396px;
+}
+    
+.news_wrapper{
+  padding: 0 50px 50px;
+}
+
+.unique_blog_post h2 {
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.unique_blog_post p{
+  font-size: 16px;
+}
+
+.single_blog_post{
+  border-right: 1px solid #bdbcb8;
+}
+
+.single_sidebar ul li a {
+  padding: 4px 0;
+}
+
+.single_sidebar h2{
+  font-size: 22px;
+  line-height: 22px;
+}
+
+
+/* ===================================================
+   Single Blog page
+   =================================================== */
+  .comments_nav_section p a{
+    font-size: 15px;
+  }
+
+
+/* ===================================================
+   Contact Us
+   =================================================== */
+
+.contact_us_wrapper {
+  padding: 0 50px 50px;
+}
+
+.contact_us_wrapper_left{
+  margin-bottom: 0;
+}  
+
+.contact_us_wrapper_left h2{
+  font-size: 20px;
+  line-height: 30px;
+}
+     
+form input[type="text"] {
+  margin-left: 0 !important;
+  width: 369px !important;
+  margin-top: 10px;
+}
+
+#user_name {
+  margin-left: 19px;
+}
+
+#email_id {
+  margin-left: 19px;
+}
+
+textarea {
+  margin-left: 0;
+  margin-top: 25px;
+  width: 370px;
+}
+
+form input[type="submit"]{
+  margin-left: 0;
+}
+
+}
+
+
+/* --------------------------------------
+	Medium devices (desktops, 992px and up) 
+   -------------------------------------- */
+  
+@media (min-width: 992px) {
+.container {
+    width: 970px;
+}
+
+.navbar-nav > li a {
+  font-size: 14px;
+  line-height: 22px;
+  padding: 15px 30px;
+  text-align: center;
+}
+
+.caption h2 {
+  font-size: 35px;
+  line-height: 45px;
+  margin-right: 30px;
+  margin-top: 98px;
+}
+
+.background {
+  height: 800px;
+}
+
+.welcome{
+  padding: 0;
+}
+
+.welcome h2{
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+
+.welcome p{
+  font-size: 16px;
+  line-height: 24px;
+}
+
+#latest_blog_and_testimonial > .container{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.latest_blog {
+  padding: 20px 25px;
+}
+
+.latest_blog h2{
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.single_lates_blog h3{
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.single_lates_blog p.date_latest{
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.single_lates_blog p{
+  margin-top: 10px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.testimonial{
+  padding: 30px 25px 21px;
+}
+
+.testimonial p{
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 25px;
+}
+
+.testimonial h2{
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 10px;
+}
+
+.testimonial p.name{
+  position: static;
+}
+
+.single_aside{
+  height: 206px;
+  margin-top: 0;
+}
+
+#single_first_aside img, #single_second_aside img, #single_third_aside img {
+  height: 206px;
+  width: 171px;
+  display: inline;
+}
+
+#single_first_aside span {
+  font-size: 25px;
+  line-height: 35px;
+  margin-right: 30px;
+  margin-top: 78px;
+}
+
+#single_second_aside span {
+  font-size: 25px;
+  line-height: 35px;
+  margin-right: 49px;
+  margin-top: 73px;
+}
+
+#single_third_aside span {
+  font-size: 25px;
+  line-height: 35px;
+  margin-right: 37px;
+  margin-top: 75px;
+}
+
+nav#footer_navigation ul li a {
+  padding: 15px;
+  font-size: 13px;
+  line-height: 22px;
+}
+
+.social_media_link {
+  padding: 15px 0 15px 190px;
+}
+
+.copyright_info h6{
+  font-size: 14px;
+  line-height: 22px;
+}
+
+/* ===================================================
+   About Us
+   =================================================== */
+   
+.about_top_wrapper h1{
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.about_top_wrapper h2{
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.about_bottom_wrapper_right{
+  border-left: 2px solid #BDBCB8;
+  padding-left: 15px;
+}
+
+.about_top_wrapper p{
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.about_bottom_wrapper_left h2{
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.about_bottom_wrapper_right h2{
+  font-size: 22px;
+  line-height: 30px;
+}
+
+/* ===================================================
+   Rooms
+   =================================================== */
+
+.rooms_wrapper{
+  padding: 0 50px;
+}
+   
+.rooms_wrapper h1{
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 50px;
+} 
+
+.single_room_wrapper_left {
+  padding-left: 0;
+  padding-right: 15px;
+}
+
+.single_room_wrapper_right{
+  padding: 0 15px;
+}
+
+.single_room_wrapper_right h2{
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 20px;
+  text-align: left;
+  margin-top: 0;
+}
+
+.single_room_wrapper_right p{
+  font-size: 16px;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+
+.single_room_wrapper_right p.rate a{
+  width: 190px;
+}
+
+/* ===================================================
+   Dive Site
+   =================================================== */
+
+.single_dive_wrapper_right {
+  padding-right: 0;
+  padding-left: 15px;
+}
+
+.dive_wrapper{
+  padding: 0 50px;
+}
+
+/* ===================================================
+   Food
+   =================================================== */
+   
+.food_wrapper {
+  padding: 0 50px;
+} 
+
+.all_food_wrapper_info{
+  height: 84px;
+}
+
+.all_food_wrapper_info h3{
+  margin: 5px 0;
+}
+
+.all_food_wrapper_info p{
+  margin-top: -13px;
+  font-size: 14px;
+  line-height: 30px;
+}
+
+.all_food_wrapper h2{
+  text-align: left;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.single_food_wrapper img {
+  width: 355px;
+  height: 233px;
+  margin: 0;
+  display: inline;
+}
+
+/* ===================================================
+   Blog / News
+   =================================================== */
+
+.unique_blog_post img{
+  width: 763px;
+  height: 396px;
+}
+    
+.news_wrapper{
+  padding: 0 50px 50px;
+}
+
+.unique_blog_post h2 {
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.unique_blog_post p{
+  font-size: 16px;
+}
+
+.single_blog_post{
+  border-right: 1px solid #bdbcb8;
+}
+
+.single_sidebar ul li a {
+  padding: 8px 0;
+}
+
+.single_sidebar h2{
+  font-size: 22px;
+  line-height: 22px;
+}
+
+/* ===================================================
+   Single Blog page
+   =================================================== */
+  .comments_nav_section p a{
+    font-size: 15px;
+  }
+
+/* ===================================================
+   Contact Us
+   =================================================== */
+
+.contact_us_wrapper {
+  padding: 0 50px 50px;
+}
+
+.contact_us_wrapper_left{
+  margin-bottom: 0;
+}  
+
+.contact_us_wrapper_left h2{
+  font-size: 25px;
+  line-height: 30px;
+}
+    
+form input[type="text"]{
+  width: 440px !important;
+}
+
+#user_name {
+  margin-left: 19px !important;
+}
+
+#email_id {
+  margin-left: 19px !important;
+}
+
+textarea{
+  width: 454px;
+  margin-left: 80px;
+}
+
+form input[type="submit"]{
+  margin-left: 78px;
+}
+
+}
+
+
+/* --------------------------------------
+	Large devices (large desktops, 1200px and up) 
+   -------------------------------------- */
+
+@media (min-width: 1200px) {
+.container {
+    width: 1170px;
+}
+
+.navbar-nav > li a{
+  font-size: 14px;
+  line-height: 22px;
+  padding: 15px 35px;
+  text-align: center;
+}
+
+.caption h2{
+  font-size: 40px;
+  line-height: 50px;
+  margin-right: 30px;
+  margin-top: 93px;
+}
+
+.background{
+   height: 905px;
+}
+
+.welcome{
+  padding: 0;
+}
+
+.welcome h2{
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+
+.welcome p{
+  font-size: 16px;
+  line-height: 24px;
+}
+
+#latest_blog_and_testimonial > .container{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.latest_blog{
+  padding: 20px 25px;
+}
+
+.latest_blog h2{
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.single_lates_blog h3{
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.single_lates_blog p.date_latest{
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.single_lates_blog p{
+  margin-top: 18px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.testimonial{
+  padding: 30px 25px 7px;
+}
+
+.testimonial h2{
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 10px;
+}
+
+.testimonial p{
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 25px;
+}
+
+.testimonial p.name{
+  position: relative;
+}
+
+.single_aside{
+  height: 190px;
+  margin-top: 0;
+}
+
+#single_first_aside img, #single_second_aside img, #single_third_aside img {
+  height: 191px;
+  width: 214px;
+  display: inline;
+}
+
+#single_first_aside span{
+  font-size: 30px;
+  line-height: 40px;
+  margin-top: 76px;
+  margin-right: 30px;
+}
+
+#single_second_aside span{
+  font-size: 30px;
+  line-height: 40px;
+  margin-right: 57px;
+  margin-top: 73px;
+}
+
+#single_third_aside span{
+  font-size: 30px;
+  line-height: 40px;
+  margin-top: 75px;
+  margin-right: 40px;
+}
+
+nav#footer_navigation ul li a{
+  padding: 15px 20px;
+  font-size: 13px;
+  line-height: 22px;
+}
+
+.social_media_link {
+  padding: 15px 0 15px 237px;
+}
+
+.copyright_info h6{
+  font-size: 14px;
+  line-height: 22px;
+}
+
+/* ===================================================
+   About Us
+   =================================================== */
+   
+.about_top_wrapper h1{
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.about_top_wrapper h2{
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.about_top_wrapper p{
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.about_bottom_wrapper_right{
+  border-left: 2px solid #BDBCB8;
+  padding-left: 15px;
+}
+
+.about_bottom_wrapper_left h2{
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.about_bottom_wrapper_right h2{
+  font-size: 25px;
+  line-height: 30px;
+}
+
+/* ===================================================
+   Rooms
+   =================================================== */
+
+.rooms_wrapper{
+  padding: 0 50px;
+}
+
+.rooms_wrapper h1{
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 50px;
+} 
+
+.single_room_wrapper_left {
+  padding-left: 0;
+  padding-right: 15px;
+}
+
+.single_room_wrapper_right{
+  padding: 0 15px;
+}
+
+.single_room_wrapper_right h2{
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 20px;
+  text-align: left;
+  margin-top: 0;
+}
+
+.single_room_wrapper_right p{
+  font-size: 16px;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+
+.single_room_wrapper_right p.rate a{
+  width: 190px;
+}
+
+/* ===================================================
+   Dive Site
+   =================================================== */
+
+.single_dive_wrapper_right {
+  padding-right: 0;
+  padding-left: 15px;
+}
+
+.dive_wrapper{
+  padding: 0 50px;
+}
+
+
+/* ===================================================
+   Food
+   =================================================== */
+   
+.food_wrapper {
+  padding: 0 50px;
+} 
+
+.all_food_wrapper_info{
+  height: 84px;
+}
+
+.all_food_wrapper_info h3{
+  margin: 5px 0;
+}
+
+.all_food_wrapper_info p{
+  margin-top: -13px;
+  font-size: 14px;
+  line-height: 30px;
+}
+
+.all_food_wrapper h2{
+  text-align: left;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.single_food_wrapper img {
+  width: 355px;
+  height: 233px;
+  margin: 0;
+  display: inline;
+}
+
+
+/* ===================================================
+   Blog / News
+   =================================================== */
+
+.unique_blog_post img{
+  width: 763px;
+  height: 396px;
+}
+
+.unique_blog_post h2 {
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.unique_blog_post p{
+  font-size: 16px;
+}
+
+.news_wrapper{
+  padding: 0 50px 50px;
+}
+
+.single_blog_post{
+  border-right: 1px solid #bdbcb8;
+}
+
+.single_sidebar ul li a {
+  padding: 3px 0;
+}
+
+.single_sidebar h2{
+  font-size: 22px;
+  line-height: 22px;
+}
+
+
+/* ===================================================
+   Single Blog page
+   =================================================== */
+  .comments_nav_section p a{
+    font-size: 15px;
+  }
+
+/* ===================================================
+   Contact Us
+   =================================================== */
+
+.contact_us_wrapper {
+  padding: 0 50px 50px;
+}
+
+.contact_us_wrapper_left{
+  margin-bottom: 0;
+}  
+
+.contact_us_wrapper_left h2{
+  font-size: 25px;
+  line-height: 30px;
+}
+  
+form input[type="text"]{
+  width: 440px !important;
+}
+
+#user_name {
+  margin-left: 19px !important;
+}
+
+#email_id {
+  margin-left: 19px !important;
+}
+
+textarea{
+  width: 529px;
+  margin-left: 80px;
+}
+
+form input[type="submit"]{
+  margin-left: 78px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
